@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo ${BUILD_NUMBER}
+echo $buildNumber
 
 for (( c=1; c<=5; c++ ))
 do  
